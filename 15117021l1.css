@@ -1,0 +1,13 @@
+﻿#Content1{margin-top:20px}
+.conts #ReportIDname{display:block;text-align:center;margin:0 0 35px;font-size:28px;line-height:160%;}
+.conts #ReportIDgetSubhead{display:block;text-align:center;margin:-25px 0 0;font-size:22px;}
+.times{margin-top:45px;height:32px;background:#eee;padding:0 25px;line-height:32px;position:relative;margin-bottom:30px;text-align:center;/*margin-top:50px*/}
+.t_mb{text-align:right;margin-top:30px;padding:0 5px 4px;color:#aaa}
+.times #ReportIDIssueTime{margin-right:70px}
+.times .ser{position:absolute;right:30px;top:0;display:none;}
+.conts #ReportIDtext{display:block;line-height:220%;overflow:hidden;padding-bottom:30px;font-size:16px;}
+.conts #ReportIDtext a{color:#256EB1}
+.conts #ReportIDtext p{font-size:16px;margin-bottom:10px}
+.bser {float:right}
+.conts #ReportIDtext table{ border-collapse:collapse;margin:0 auto}
+.conts #ReportIDtext td{border:solid 1px #ddd;padding:0 10px; border-collapse:collapse;}
