@@ -4,3 +4,4 @@ school=schoollist[schoolid];
 if (school == "undefined"){
     school="中北大学";
 }
+
